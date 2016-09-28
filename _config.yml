@@ -24,6 +24,3 @@ highlighter: rouge
 
 # Permalinks
 permalink: pretty
-
-gems:
-  - jekyll-octicons
